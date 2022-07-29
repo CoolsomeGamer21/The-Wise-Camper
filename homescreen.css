@@ -1,0 +1,390 @@
+<html>
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 390px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 390px;
+height: 34px;
+left: 0px;
+top: 13px;
+
+background: url(image.png);
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 390px;
+height: 797px;
+left: 0px;
+top: 47px;
+
+background: rgba(30, 193, 244, 0.49);
+
+
+/* GOOD MORNING! WHERE ARE YOU GOING TODAY?? */
+
+
+position: absolute;
+width: 358px;
+height: 84px;
+left: 16px;
+top: 59px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 376px;
+height: 198px;
+left: 7px;
+top: 193px;
+
+background: url(image.png);
+
+
+/* The Gold Branch Trail */
+
+
+position: absolute;
+width: 352px;
+height: 24px;
+left: 22px;
+top: 391px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 126px;
+height: 44px;
+left: 0px;
+top: 756px;
+
+background: #001AFF;
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 126px;
+height: 44px;
+left: 126px;
+top: 756px;
+
+background: #00A9DE;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 138px;
+height: 44px;
+left: 252px;
+top: 756px;
+
+background: #91FF05;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 138px;
+height: 44px;
+left: 253px;
+top: 800px;
+
+background: #FF3131;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 126px;
+height: 44px;
+left: 126px;
+top: 800px;
+
+background: #B771A8;
+
+
+/* Navigate */
+
+
+position: absolute;
+width: 110px;
+height: 35px;
+left: 8px;
+top: 765px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 126px;
+height: 44px;
+left: 0px;
+top: 800px;
+
+background: #42FF00;
+
+
+/* Projects */
+
+
+position: absolute;
+width: 110px;
+height: 35px;
+left: 8px;
+top: 812px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Workout */
+
+
+position: absolute;
+width: 110px;
+height: 35px;
+left: 143px;
+top: 765px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Pack */
+
+
+position: absolute;
+width: 110px;
+height: 35px;
+left: 159px;
+top: 809px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Assistant */
+
+
+position: absolute;
+width: 110px;
+height: 35px;
+left: 266px;
+top: 765px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Friends */
+
+
+position: absolute;
+width: 110px;
+height: 35px;
+left: 266px;
+top: 807px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* OR */
+
+
+position: absolute;
+width: 124px;
+height: 78px;
+left: 129px;
+top: 428px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+/* identical to box height */
+
+text-align: center;
+
+color: #160405;
+
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 269px;
+height: 50px;
+left: 8px;
+top: 606px;
+
+background: #F5F5F5;
+border-radius: 40px;
+
+
+/* Use Voice Assitant by tapping assistant or use the search button */
+
+
+position: absolute;
+width: 326px;
+height: 46px;
+left: 21px;
+top: 503px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 83px;
+height: 41px;
+left: 291px;
+top: 610px;
+
+background: #00A9DE;
+border-radius: 40px;
+
+
+/* Search */
+
+
+position: absolute;
+width: 76px;
+height: 34px;
+left: 300px;
+top: 617px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 50px;
+height: 30px;
+left: 22px;
+top: 12px;
+
+background: #160405;
+
+
+/* 10:13 */
+
+
+position: absolute;
+width: 50px;
+height: 25px;
+left: 35px;
+top: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+</html>

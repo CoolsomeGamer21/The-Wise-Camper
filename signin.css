@@ -1,0 +1,413 @@
+<html>
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 390px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 390px;
+height: 34px;
+left: 0px;
+top: 13px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 390px;
+height: 797px;
+left: 0px;
+top: 47px;
+
+background: #00F0FF;
+
+
+/* First Name */
+
+
+position: absolute;
+width: 144px;
+height: 36px;
+left: 12px;
+top: 69px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Last Name */
+
+
+position: absolute;
+width: 144px;
+height: 36px;
+left: 12px;
+top: 173px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Address */
+
+
+position: absolute;
+width: 144px;
+height: 36px;
+left: 18px;
+top: 277px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Email */
+
+
+position: absolute;
+width: 144px;
+height: 36px;
+left: 18px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 144px;
+height: 36px;
+left: 19px;
+top: 487px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 353px;
+height: 46px;
+left: 7px;
+top: 105px;
+
+background: #F5F5F5;
+border-radius: 40px;
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 353px;
+height: 46px;
+left: 12px;
+top: 209px;
+
+background: #F5F5F5;
+border-radius: 40px;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 353px;
+height: 46px;
+left: 12px;
+top: 320px;
+
+background: #F5F5F5;
+border-radius: 40px;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 353px;
+height: 46px;
+left: 12px;
+top: 422px;
+
+background: #F5F5F5;
+border-radius: 40px;
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 353px;
+height: 46px;
+left: 12px;
+top: 521px;
+
+background: #F5F5F5;
+border-radius: 40px;
+
+
+/* Arun */
+
+
+position: absolute;
+width: 128px;
+height: 44px;
+left: 18px;
+top: 105px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Singh */
+
+
+position: absolute;
+width: 128px;
+height: 44px;
+left: 18px;
+top: 206px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* .............. */
+
+
+position: absolute;
+width: 172px;
+height: 44px;
+left: 26px;
+top: 510px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* 1571 E Bank Dr, Marietta, GA 30068 */
+
+
+position: absolute;
+width: 371px;
+height: 44px;
+left: 19px;
+top: 327px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Arunws@Wisecamper.tech */
+
+
+position: absolute;
+width: 349px;
+height: 32px;
+left: 16px;
+top: 436px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* OR */
+
+
+position: absolute;
+width: 124px;
+height: 78px;
+left: 112px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+/* identical to box height */
+
+text-align: center;
+
+color: #160405;
+
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 178px;
+height: 54px;
+left: 90px;
+top: 589px;
+
+background: #00A9DE;
+border-radius: 40px;
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 178px;
+height: 54px;
+left: 90px;
+top: 728px;
+
+background: #00A9DE;
+border-radius: 40px;
+
+
+/* SIGN UP */
+
+
+position: absolute;
+width: 111px;
+height: 34px;
+left: 128px;
+top: 609px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* SIGN IN */
+
+
+position: absolute;
+width: 111px;
+height: 34px;
+left: 125px;
+top: 742px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 50px;
+height: 30px;
+left: 26px;
+top: 12px;
+
+background: #160405;
+
+
+/* 10:12 */
+
+
+position: absolute;
+width: 50px;
+height: 25px;
+left: 26px;
+top: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+</html>

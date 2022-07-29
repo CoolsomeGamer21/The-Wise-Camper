@@ -1,4 +1,5 @@
-<html>
+JavaScript default 
+
  let idle = stanby
  let buttonPressed = ''
  
@@ -6,4 +7,4 @@
    console.log('What Can I do for you?')
  } else {
    console.log(idle)
-</html>
+
